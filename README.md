@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suryaRepos369
-- 👀 I’m interested in ...Fulllstack developement
-- 🌱 I’m currently learning ...lot of things 
+- 👀 I’m interested in ...Fullstack developement
+- 🌱 trying to learn  ...lot of things 
 - 📫 How to reach me ...suryaprakasamc@gmail.com
 
 <!---
